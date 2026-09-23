@@ -1,0 +1,152 @@
+=== PAGE 1 ===
+ 
+ 
+Contactar
+r.jhonf@gmail.com
+www.linkedin.com/in/jhon-rios-
+galindez
+ (LinkedIn)
+jhonriosportfolio.vercel.app/
+(Personal)
+Aptitudes principales
+Bases de datos
+Desarrollo front end
+Diseño de software
+Languages
+English
+ (Professional Working)
+Spanish
+ (Native or Bilingual)
+Certifications
+DOM Manipulation Course
+Introduction to Artificial Intelligence
+(AI)
+Python for Data Science, AI &
+Development
+React.js Course
+Google Cloud Fundamentals: Core
+Infrastructure en Español
+Jhon Fernando Rios Galindez
+Desarrollador Full Stack | Especialista en inteligencia artificial
+Colombia
+Extracto
+Desarrollador Full Stack y Especialista en Inteligencia Artificial con
+experiencia en la construcción de aplicaciones web end-to-end
+y la integración de soluciones impulsadas por datos y modelos
+predictivos. Poseo un sólido dominio en tecnologías Frontend
+y Backend, incluyendo React.js, Node.js, PHP, PostgreSQL y
+ecosistemas CMS como WordPress, enfocando siempre los
+desarrollos en el rendimiento, la escalabilidad y la experiencia de
+usuario. En el ámbito de la inteligencia artificial, destaco por mi
+capacidad para diseñar pipelines de datos, entrenar algoritmos de
+Machine Learning y arquitectar sistemas avanzados de búsqueda
+semántica (RAG) integrando LLMs bajo prácticas de MLOps.
+Gracias a mi experiencia coordinando operaciones técnicas y mi
+alta capacidad analítica, logro transformar requerimientos complejos
+de negocio en productos digitales automatizados y eficientes que
+impulsan el crecimiento y la productividad de la organización.
+Stack tecnológico:- Desarrollo Full Stack / Frontend / Backend  -
+React.js / Next.js / Node.js / PHP  /JavaScript / TypeScript- API
+REST- Inteligencia Artificial / Machine Learning / LLMs / RAG  -
+Python / Scikit-learn / TensorFlow / Pandas  - Bases de Datos (SQL,
+MySQL, PostgreSQL)  - MLOps / Embeddings / Análisis de Datos
+Experiencia
+ORBIDI
+1 año 9 meses
+Production Lead
+septiembre de 2025 - mayo de 2026 
+(9 meses)
+Колумбия
+- Coordiné operaciones y el seguimiento de tareas con un enfoque en la
+eficiencia, la calidad y el cumplimiento normativo (compliance), garantizando
+una ejecución integral (end-to-end) en entornos dinámicos.
+ 
+Page 
+1
+ of 
+3
+=== PAGE 2 ===
+ 
+ 
+- Identifiqué cuellos de botella, brechas de productividad y oportunidades de
+mejora, generando perspectivas operativas (insights) y recomendaciones
+accionables para optimizar la ejecución del equipo.
+- Traduje los requerimientos del negocio y las directrices de coordinación en
+tareas definidas, criterios de calidad y ajustes tácticos a corto plazo.
+- Impulsé la adopción de herramientas basadas en inteligencia artificial y
+mejores prácticas de monitoreo (tracking), fortaleciendo la escalabilidad
+operativa y la preparación (readiness) para la automatización de flujos de
+trabajo.
+Programador full stack
+septiembre de 2024 - agosto de 2025 
+(1 año)
+Колумбия
+- Desarrollé sitios web y aplicaciones web de principio a fin (end-to-end)
+basados en los requerimientos del cliente, utilizando React.js, PHP y
+JavaScript, garantizando una arquitectura preparada para la medición del
+rendimiento y la mejora continua.
+- Configuré, instalé y mantuve sistemas de gestión de contenidos
+(WordPress), administrando bases de datos MySQL y optimizando estructuras
+de datos para mejorar el rendimiento y la escalabilidad de los sitios.
+- Ejecuté pruebas funcionales y de calidad de manera sistemática, definiendo
+criterios de aceptación y validando la compatibilidad entre navegadores
+(cross-browser) y multidispositivo para asegurar una experiencia de usuario
+consistente.
+- Optimicé la velocidad y el rendimiento de sitios y aplicaciones web (tiempos
+de carga, consultas a bases de datos, uso de recursos), aprovechando
+métricas técnicas para mejorar la experiencia del usuario y los resultados de
+negocio.
+- Brindé soporte técnico y resolví incidentes relacionados con el desarrollo
+web, analizando las causas raíz (root cause analysis) y proponiendo mejoras
+en el código, plantillas, herramientas y procesos.
+- Registré y reporté el tiempo y el esfuerzo invertido por actividad (time-
+tracking), proporcionando datos operativos que permitieron una gestión más
+analítica de la capacidad y del proceso de producción digital.
+- Identifiqué y propuse mejoras en el proceso de producción (herramientas,
+plantillas, sistemas, tecnología), centrándome en la estandarización y
+automatización de tareas repetitivas dentro del flujo de trabajo (workflow).
+- Apoyé los procesos de diseño UI/UX, colaborando en la implementación de
+interfaces orientadas a la conversión y a una experiencia de usuario alineada
+con las métricas clave del negocio.
+ 
+Page 
+2
+ of 
+3
+=== PAGE 3 ===
+ 
+ 
+Fiverr
+Desarrollador web
+mayo de 2021 - agosto de 2024 
+(3 años 4 meses)
+- Desarrollé sitios web para clientes de distintas regiones, incluyendo
+portafolios, plataformas de comercio electrónico (e-commerce) y sitios
+corporativos, aplicando las mejores prácticas de SEO y rendimiento
+(performance).
+- Adapté y personalicé el diseño de sitios web para clientes, optimizando la
+interfaz visual y mejorando la usabilidad general.
+- Mejoré en aproximadamente un 40% el rendimiento de sitios web basados
+en WordPress mediante la optimización de imágenes, la configuración de
+sistemas de caché y la implementación de carga diferida (lazy loading).
+- Gestioné y actualicé de forma continua los contenidos y activos digitales de
+las plataformas web.
+Educación
+Corporación Universitaria Minuto de Dios
+Especialista en inteligencia artificial, Artificial Intelligence
+ · (marzo de
+2025 - abril de 2026)
+Servicio Nacional de Aprendizaje (SENA)
+Tecnólogo en análisis y desarrollo de software, Computer Software
+Engineering
+ · (abril de 2024 - julio de 2026)
+Cambridge Language Centres
+ · (enero de 2023 - noviembre de 2023)
+Universidad del Cauca
+Ingeniero civil, Civil Engineering
+ · (febrero de 2008 - septiembre de 2014)
+ 
+Page 
+3
+ of 
+3
